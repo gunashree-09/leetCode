@@ -11,11 +11,11 @@ public:
             if(s[r]>=g[l]){
                 
                 l++;
-                r++;
+                
             }
-            else{
+            
                 r++;
-            }
+            
         }
         return l;
     }
