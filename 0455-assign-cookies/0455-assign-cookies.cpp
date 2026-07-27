@@ -9,7 +9,7 @@ public:
         if(s.size()==0) return 0;
         while(r<s.size() && l<g.size()){
             if(s[r]>=g[l]){
-                cnt++;
+                
                 l++;
                 r++;
             }
@@ -17,6 +17,6 @@ public:
                 r++;
             }
         }
-        return cnt;
+        return l;
     }
 };
