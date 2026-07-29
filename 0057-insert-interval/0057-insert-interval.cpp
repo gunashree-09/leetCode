@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
         vector<vector<int>> ans;
-        for(auto & v : intervals){
+        for(auto  v : intervals){
             if(v[1]<newInterval[0]){
                 ans.push_back(v);
             }
