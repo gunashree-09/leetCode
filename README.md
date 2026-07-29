@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/gunashree-09/leetCode/tree/master/0008-string-to-integer-atoi) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/gunashree-09/leetCode/tree/master/0678-valid-parenthesis-string) |
 ## Design
