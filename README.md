@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/gunashree-09/leetCode/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gunashree-09/leetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gunashree-09/leetCode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/gunashree-09/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/gunashree-09/leetCode/tree/master/0860-lemonade-change) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/gunashree-09/leetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
