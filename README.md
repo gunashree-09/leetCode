@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/gunashree-09/leetCode/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gunashree-09/leetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/gunashree-09/leetCode/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/gunashree-09/leetCode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/gunashree-09/leetCode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
