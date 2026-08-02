@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void solve(int k,int tar,vector<vector<int>>& res,vector<int> arr,int idx,int sum, vector<int> cur){
+    void solve(int &k,int& tar,vector<vector<int>>& res,vector<int> & arr,int idx,int sum, vector<int>& cur){
 if(idx==arr.size()) {
     if(cur.size()==k && sum==tar){
         res.push_back(cur);
