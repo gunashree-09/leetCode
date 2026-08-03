@@ -29,7 +29,7 @@ public:
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
         vector<string> board(n,string(n,'.'));
-        vector<int> leftrow(n,0),upper(2*n-1,0),lower(2*n-1,0);
+        vector<int> leftrow(n,0),upper(2*n-1,0),lower(2*n-1);
         solve(ans,board,0,leftrow,upper,lower,n);
         return ans;
         
