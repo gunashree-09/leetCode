@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gunashree-09/leetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/gunashree-09/leetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gunashree-09/leetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/gunashree-09/leetCode/tree/master/0045-jump-game-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gunashree-09/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/gunashree-09/leetCode/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gunashree-09/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gunashree-09/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/gunashree-09/leetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/gunashree-09/leetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/gunashree-09/leetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gunashree-09/leetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/gunashree-09/leetCode/tree/master/0051-n-queens) |
@@ -269,9 +272,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gunashree-09/leetCode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/gunashree-09/leetCode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gunashree-09/leetCode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/gunashree-09/leetCode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/gunashree-09/leetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
