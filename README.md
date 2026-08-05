@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/gunashree-09/leetCode/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/gunashree-09/leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gunashree-09/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/gunashree-09/leetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/gunashree-09/leetCode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/gunashree-09/leetCode/tree/master/0435-non-overlapping-intervals) |
+| [0451-sort-characters-by-frequency](https://github.com/gunashree-09/leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gunashree-09/leetCode/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/gunashree-09/leetCode/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/gunashree-09/leetCode/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0451-sort-characters-by-frequency](https://github.com/gunashree-09/leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/gunashree-09/leetCode/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
@@ -291,4 +294,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/gunashree-09/leetCode/tree/master/0037-sudoku-solver) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/gunashree-09/leetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/gunashree-09/leetCode/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/gunashree-09/leetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
