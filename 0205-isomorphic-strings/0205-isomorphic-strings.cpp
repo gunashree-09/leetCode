@@ -1,29 +1,23 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        int n = s.size();
-        int m = t.size();
+        if(s.length()!=t.length()) return false;
+        vector<int> mapST(256,-1);
+        vector<int> mapTS(256,-1);
 
-        if(n != m) return false;
-        unordered_map<char, char> mp;
-
-        for(int i = 0; i < n; i++){
-            char original = s[i];
-            char replace = t[i];
-
-            if(mp.find(original) == mp.end()){
-                for(auto it : mp){
-                    if(it.second == replace){
-                        return false;
-                    }
-                }
-                mp[original] = replace;
+        for(int i =0;i<s.length();i++){
+            char c1 = s[i];
+            char c2 = t[i];
+            
+            if(mapST[c1]==-1 && mapTS[c2]==-1){
+                mapST[c1]= c2;
+                mapTS[c2]=c1;
             }
-            else{
-                if(mp[original] != replace) return false;
+            else if(mapST[c1]!=c2 || mapTS[c2]!=c1){
+                return false;
             }
         }
-
         return true;
     }
+
 };
