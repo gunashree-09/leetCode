@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gunashree-09/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/gunashree-09/leetCode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/gunashree-09/leetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gunashree-09/leetCode/tree/master/0055-jump-game) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gunashree-09/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/gunashree-09/leetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/gunashree-09/leetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gunashree-09/leetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gunashree-09/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gunashree-09/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gunashree-09/leetCode/tree/master/0031-next-permutation) |
 | [0455-assign-cookies](https://github.com/gunashree-09/leetCode/tree/master/0455-assign-cookies) |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gunashree-09/leetCode/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gunashree-09/leetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
