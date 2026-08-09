@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/gunashree-09/leetCode/tree/master/0216-combination-sum-iii) |
 | [0435-non-overlapping-intervals](https://github.com/gunashree-09/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gunashree-09/leetCode/tree/master/0455-assign-cookies) |
+| [0704-binary-search](https://github.com/gunashree-09/leetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/gunashree-09/leetCode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/gunashree-09/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/gunashree-09/leetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/gunashree-09/leetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/gunashree-09/leetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunashree-09/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
