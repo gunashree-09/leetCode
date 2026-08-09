@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gunashree-09/leetCode/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/gunashree-09/leetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/gunashree-09/leetCode/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/gunashree-09/leetCode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/gunashree-09/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/gunashree-09/leetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunashree-09/leetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gunashree-09/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/gunashree-09/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/gunashree-09/leetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/gunashree-09/leetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunashree-09/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
