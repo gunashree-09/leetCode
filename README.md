@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/gunashree-09/leetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gunashree-09/leetCode/tree/master/0057-insert-interval) |
 | [0079-word-search](https://github.com/gunashree-09/leetCode/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/gunashree-09/leetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/gunashree-09/leetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/gunashree-09/leetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/gunashree-09/leetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/gunashree-09/leetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunashree-09/leetCode/tree/master/1004-max-consecutive-ones-iii) |
