@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/gunashree-09/leetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gunashree-09/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0216-combination-sum-iii](https://github.com/gunashree-09/leetCode/tree/master/0216-combination-sum-iii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gunashree-09/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0435-non-overlapping-intervals](https://github.com/gunashree-09/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gunashree-09/leetCode/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/gunashree-09/leetCode/tree/master/0704-binary-search) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gunashree-09/leetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gunashree-09/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/gunashree-09/leetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gunashree-09/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/gunashree-09/leetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/gunashree-09/leetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunashree-09/leetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/gunashree-09/leetCode/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gunashree-09/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/gunashree-09/leetCode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/gunashree-09/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/gunashree-09/leetCode/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/gunashree-09/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Algorithm X
 |  |
 | ------- |
