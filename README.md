@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gunashree-09/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0435-non-overlapping-intervals](https://github.com/gunashree-09/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gunashree-09/leetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/gunashree-09/leetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/gunashree-09/leetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/gunashree-09/leetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/gunashree-09/leetCode/tree/master/0875-koko-eating-bananas) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/gunashree-09/leetCode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/gunashree-09/leetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/gunashree-09/leetCode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gunashree-09/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/gunashree-09/leetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/gunashree-09/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/gunashree-09/leetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/gunashree-09/leetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/gunashree-09/leetCode/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/gunashree-09/leetCode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/gunashree-09/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gunashree-09/leetCode/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/gunashree-09/leetCode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/gunashree-09/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/gunashree-09/leetCode/tree/master/0860-lemonade-change) |
 ## Recursion
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gunashree-09/leetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/gunashree-09/leetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/gunashree-09/leetCode/tree/master/0621-task-scheduler) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -342,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gunashree-09/leetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/gunashree-09/leetCode/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gunashree-09/leetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Manacher
 |  |
