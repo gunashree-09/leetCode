@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/gunashree-09/leetCode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/gunashree-09/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/gunashree-09/leetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [0994-rotting-oranges](https://github.com/gunashree-09/leetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/gunashree-09/leetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/gunashree-09/leetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gunashree-09/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/gunashree-09/leetCode/tree/master/0994-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gunashree-09/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/gunashree-09/leetCode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gunashree-09/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0994-rotting-oranges](https://github.com/gunashree-09/leetCode/tree/master/0994-rotting-oranges) |
 ## Algorithm X
 |  |
 | ------- |
