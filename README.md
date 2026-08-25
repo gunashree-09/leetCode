@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gunashree-09/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/gunashree-09/leetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/gunashree-09/leetCode/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/gunashree-09/leetCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/gunashree-09/leetCode/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/gunashree-09/leetCode/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/gunashree-09/leetCode/tree/master/0846-hand-of-straights) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gunashree-09/leetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/gunashree-09/leetCode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/gunashree-09/leetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/gunashree-09/leetCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/gunashree-09/leetCode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gunashree-09/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/gunashree-09/leetCode/tree/master/0846-hand-of-straights) |
@@ -115,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/gunashree-09/leetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/gunashree-09/leetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0496-next-greater-element-i](https://github.com/gunashree-09/leetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/gunashree-09/leetCode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/gunashree-09/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/gunashree-09/leetCode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/gunashree-09/leetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
