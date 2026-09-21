@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gunashree-09/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/gunashree-09/leetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/gunashree-09/leetCode/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gunashree-09/leetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/gunashree-09/leetCode/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/gunashree-09/leetCode/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gunashree-09/leetCode/tree/master/0994-rotting-oranges) |
 ## Sorting
@@ -430,11 +432,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/gunashree-09/leetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gunashree-09/leetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gunashree-09/leetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/gunashree-09/leetCode/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gunashree-09/leetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/gunashree-09/leetCode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/gunashree-09/leetCode/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -443,4 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gunashree-09/leetCode/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/gunashree-09/leetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/gunashree-09/leetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
