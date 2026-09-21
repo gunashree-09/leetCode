@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/gunashree-09/leetCode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/gunashree-09/leetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gunashree-09/leetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/gunashree-09/leetCode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/gunashree-09/leetCode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gunashree-09/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/gunashree-09/leetCode/tree/master/0347-top-k-frequent-elements) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gunashree-09/leetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/gunashree-09/leetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/gunashree-09/leetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gunashree-09/leetCode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/gunashree-09/leetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gunashree-09/leetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/gunashree-09/leetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/gunashree-09/leetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/gunashree-09/leetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gunashree-09/leetCode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gunashree-09/leetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/gunashree-09/leetCode/tree/master/0542-01-matrix) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gunashree-09/leetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/gunashree-09/leetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/gunashree-09/leetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/gunashree-09/leetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/gunashree-09/leetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/gunashree-09/leetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/gunashree-09/leetCode/tree/master/0733-flood-fill) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/gunashree-09/leetCode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/gunashree-09/leetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gunashree-09/leetCode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
